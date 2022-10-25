@@ -2,9 +2,9 @@ print('Hello world')  # output 'Hello world'
 
 print('')
 
-part_1 = '*****'
+part_1 = '*****'  # output '*****'
 
-print(str(part_1))
+print(str(part_1))  # output square 5х5х with '*****'
 
 Part_2 = """
 #####
